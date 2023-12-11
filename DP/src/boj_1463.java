@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class boj_1463 {
